@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(237, 225, 225);
+}
+
+
+img{
+    width: 150px;
+    border-color: green;
+    border-style:  double;
+    border-width: 20px;
+    border-radius: 18px;
+    float: right;
+    margin:18px;
+}
+.title{
+    color: rgb(181, 135, 135);
+    font-family: cursive;
+    text-align: center;
+}
+.Bio{
+    border: solid 3px;
+    border-color: rgb(239, 152, 3);
+    border-radius: 10px;
+     color: rgba(221, 136, 8, 0.872);
+     font-family: cursive;
+     background-color: rgb(244, 228, 218);
+}
+.servicedog{
+  border: solid 3px;
+  border-color: rgb(62, 137, 83);
+  border-radius: 10px;
+ color: rgba(70, 152, 11, 0.963);
+  font-family: cursive;
+ background-color: rgb(208, 229, 182);
+}
+.dogplay{
+  border: solid 3px;
+  border-color: rgb(128, 217, 242);
+  border-radius: 10px;
+ color: rgba(46, 119, 193, 0.963);
+  font-family: cursive;
+ background-color: rgb(133, 219, 210);
+}
+.dogcuddling{
+  border: solid 3px;
+  border-color: rgb(230, 242, 134);
+  border-radius: 10px;
+ color: rgba(132, 160, 9, 0.963);
+  font-family: cursive;
+ background-color: rgb(233, 251, 183);
+}
+.funfacts{
+  border: solid 3px;
+  border-color: rgb(204, 46, 46);
+  border-radius: 10px;
+ color: rgba(182, 8, 8, 0.957);
+  font-family: cursive;
+ background-color: rgb(242, 133, 133);
+}
+.credit{
+  border: solid 3px;
+  border-color: rgb(239, 152, 3)
+  border-radius: 10px;
+ color: rgba(240, 154, 25, 0.872);
+  font-family: arial;
+ background-color: rgb(244, 228, 218);
+}
