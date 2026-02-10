@@ -27,7 +27,7 @@ img{
 }
 .servicedog{
   border: solid 3px;
-  border-color: rgb(62, 137, 83);
+  border-color: rgb(60, 136, 77);
   border-radius: 10px;
  color: rgba(70, 152, 11, 0.963);
   font-family: cursive;
@@ -35,7 +35,7 @@ img{
 }
 .dogplay{
   border: solid 3px;
-  border-color: rgb(128, 217, 242);
+  border-color: rgb(80, 171, 196);
   border-radius: 10px;
  color: rgba(46, 119, 193, 0.963);
   font-family: cursive;
@@ -43,7 +43,7 @@ img{
 }
 .dogcuddling{
   border: solid 3px;
-  border-color: rgb(230, 242, 134);
+  border-color: rgb(214, 227, 112);
   border-radius: 10px;
  color: rgba(132, 160, 9, 0.963);
   font-family: cursive;
@@ -59,7 +59,7 @@ img{
 }
 .credit{
   border: solid 3px;
-  border-color: rgb(239, 152, 3)
+  border-color: rgb(239, 152, 3);
   border-radius: 10px;
  color: rgba(240, 154, 25, 0.872);
   font-family: arial;
